@@ -18,5 +18,5 @@ const cakeSlice = createSlice({
   },
 });
 
-module.exports =  cakeSlice.reducer ;
+module.exports = cakeSlice.reducer ;
 module.exports.CackeAction = cakeSlice.actions ;
